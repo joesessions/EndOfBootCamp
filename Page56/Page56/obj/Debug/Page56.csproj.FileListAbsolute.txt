@@ -1,0 +1,6 @@
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page56\Page56\bin\Debug\Page56.exe.config
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page56\Page56\bin\Debug\Page56.exe
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page56\Page56\bin\Debug\Page56.pdb
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page56\Page56\obj\Debug\Page56.csprojResolveAssemblyReference.cache
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page56\Page56\obj\Debug\Page56.exe
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page56\Page56\obj\Debug\Page56.pdb

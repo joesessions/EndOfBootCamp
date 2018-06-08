@@ -1,0 +1,6 @@
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page64\Page64\bin\Debug\Page64.exe.config
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page64\Page64\bin\Debug\Page64.exe
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page64\Page64\bin\Debug\Page64.pdb
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page64\Page64\obj\Debug\Page64.csprojResolveAssemblyReference.cache
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page64\Page64\obj\Debug\Page64.exe
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page64\Page64\obj\Debug\Page64.pdb

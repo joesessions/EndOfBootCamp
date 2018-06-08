@@ -1,0 +1,6 @@
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page71\Page71\bin\Debug\Page71.exe.config
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page71\Page71\bin\Debug\Page71.exe
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page71\Page71\bin\Debug\Page71.pdb
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page71\Page71\obj\Debug\Page71.exe
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page71\Page71\obj\Debug\Page71.pdb
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\Page71\Page71\obj\Debug\Page71.csprojResolveAssemblyReference.cache

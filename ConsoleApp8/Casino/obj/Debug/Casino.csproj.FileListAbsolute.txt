@@ -1,0 +1,4 @@
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\ConsoleApp8\Casino\bin\Debug\Casino.dll
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\ConsoleApp8\Casino\bin\Debug\Casino.pdb
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\ConsoleApp8\Casino\obj\Debug\Casino.dll
+C:\Users\Joe\CSharpRepos-master\CSharpRepos-master\ConsoleApp8\Casino\obj\Debug\Casino.pdb
