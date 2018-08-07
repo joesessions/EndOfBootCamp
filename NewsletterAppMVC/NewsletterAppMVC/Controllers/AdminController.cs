@@ -15,7 +15,10 @@ namespace NewsletterAppMVC.Controllers
         {
             using (NewsletterEntitiesThing db = new NewsletterEntitiesThing())
             {
-                var signups = db.SignUps;
+                // var signups = db.SignUps.Where(x=> x.Removed == null).ToList();
+                var signups = (from c in db.SignUps
+                               where c.Removed == null
+                               select c).ToList();
                 var signupVms = new List<SignupVm>();
                 foreach (var signup in signups)
                 {
@@ -31,6 +34,8 @@ namespace NewsletterAppMVC.Controllers
                 return View(signupVms);
             }
         }
+
+        [HttpPost]
         public ActionResult Unsubscribe(int Id)
         {
             using (NewsletterEntitiesThing db = new NewsletterEntitiesThing())

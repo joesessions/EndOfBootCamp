@@ -10,7 +10,7 @@
             @foreach (var signup in Model)
             {
                 using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post))
-                { }
+                { 
                     <input type="hidden" name="Id" value="@signup.Id" />
                     <div class="row mb-3">
                         <div class="col-2">
